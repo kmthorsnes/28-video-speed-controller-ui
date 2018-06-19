@@ -5,10 +5,10 @@ Using JS and CSS create video speed controller which register mouseover.
 
 ## Technology
 
-* [JavaScript](https://kmthorsnes.github.io/28-video-speed-constroller/) - Running solution on GitHub page
+* [JavaScript](https://kmthorsnes.github.io/28-video-speed-controller/) - Running solution on GitHub page
 
 ## Screenshots
-![Screenshot](https://github.com/kmthorsnes/28-video-speed-constroller/blob/master/screenshots/gif1.gif?raw=true "Optional title")
+![Screenshot](https://github.com/kmthorsnes/28-video-speed-controller/blob/master/screenshots/gif1.gif?raw=true "Optional title")
 
 ## Acknowledgments
 
