@@ -1,7 +1,7 @@
 ### Video speed controller UI
 
 JS Exercises. 28th challenge of the #JavaScript30 course.
-Using JS and CSS create video speed controller which register mouseover.
+Using JS and CSS create video speed controller which interact with mouseover.
 
 ## Technology
 
